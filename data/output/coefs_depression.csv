@@ -1,0 +1,19 @@
+Depression R^2 = 0.69,Depression R^2 = 0.69,Depression R^2 = 0.69
+Importance,Covariate,Coef.
+1,GAD7,2.57
+2,Mental fatigue,1.53
+3,Cognitive troubles,.68
+4,Loneliness scale,.49
+5,Daily stress,-.29
+6,Lockdown difficulty,.22
+7,Financial worries (present),-.17
+8,Family income,-.15
+9,Intolerance of uncertainty,.14
+10,Age,-.12
+11,Female,.1
+12,Negative thinking,.08
+13,Financial worries (future),-.02
+14,Lockdown adherence,-.0
+15,Male,-.0
+16,Perceived threat,-.0
+17,Perceived risk,.0

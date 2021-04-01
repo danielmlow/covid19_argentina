@@ -1,0 +1,19 @@
+Depression R^2 = 0.69,Depression R^2 = 0.69,Depression R^2 = 0.69,Anxiety R^2 = 0.63,Anxiety R^2 = 0.63,Lockdown R^2 = 0.1,Lockdown R^2 = 0.1
+Importance,Covariate,Coef.,Covariate,Coef.,Covariate,Coef.
+1,GAD7,2.57,PHQ9,2.62,Perceived threat,.39
+2,Mental fatigue,1.53,Intolerance of uncertainty,.83,Female,.12
+3,Cognitive troubles,.68,Lockdown difficulty,.48,Financial worries (present),.1
+4,Loneliness scale,.49,Cognitive troubles,.32,Perceived risk,.09
+5,Daily stress,-.29,Loneliness scale,.31,Negative thinking,-.08
+6,Lockdown difficulty,.22,Family income,.29,Intolerance of uncertainty,.08
+7,Financial worries (present),-.17,Negative thinking,.29,Cognitive troubles,-.07
+8,Family income,-.15,Daily stress,-.21,Daily stress,.05
+9,Intolerance of uncertainty,.14,Financial worries (present),-.19,Family income,.05
+10,Age,-.12,Financial worries (future),-.19,GAD7,-.05
+11,Female,.1,Perceived risk,.13,Age,-.02
+12,Negative thinking,.08,Female,.12,PHQ9,-.02
+13,Financial worries (future),-.02,Mental fatigue,.1,Mental fatigue,-.0
+14,Lockdown adherence,-.0,Age,-.07,Lockdown difficulty,-.0
+15,Male,-.0,Lockdown adherence,-.06,Financial worries (future),.0
+16,Perceived threat,-.0,Perceived threat,.01,Loneliness scale,-.0
+17,Perceived risk,.0,Male,-.0,Male,-.0

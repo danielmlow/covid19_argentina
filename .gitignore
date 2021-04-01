@@ -1,3 +1,11 @@
+
+
+data/input/Emotional_symptoms_COVID19_Arg_May20_v3.jasp
+data/input/Emotional_symptoms_COVID19_Arg_May20.sav
+data/input/Global_Mobility_Report.csv
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

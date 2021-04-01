@@ -1,0 +1,18 @@
+Importance,Depression R^2 = 0.67,,Anxiety R^2 = 0.62,,Lockdown R^2 = 0.09,
+,Covariate,Coefficient,Covariate,Coefficient,Covariate,Coefficient
+1,GAD7,0.5,Negative thinking,0.66,Gender,-0.41
+2,Gender,-0.38,PHQ9,0.46,Percieved threat,0.17
+3,Mental fatigue,0.37,Family income,0.36,Negative thinking,-0.12
+4,Cognitive troubles,0.32,Gender,-0.34,Financial worries (present),0.05
+5,Family income,-0.26,Lockdown difficulty,0.16,Family income,0.05
+6,Negative thinking,0.24,Cognitive troubles,0.14,Cognitive troubles,-0.04
+7,Daily stress,-0.1,Financial worries (future),-0.08,Percieved risk,0.03
+8,Financial worries (present),-0.09,Financial worries (present),-0.08,Intolerance of uncertainty,0.01
+9,Lockdown difficulty,0.07,Intolerance of uncertainty,0.08,Daily stress,0.01
+10,Loneliness scale,0.07,Daily stress,-0.06,Mental fatigue,-0.01
+11,Intolerance of uncertainty,0.02,Loneliness scale,0.05,GAD7,-0.01
+12,Age,-0.01,Percieved risk,0.03,Lockdown difficulty,-0.01
+13,,-0.01,Percieved threat,0.02,Age,0
+14,Percieved threat,-0.01,,-0.02,PHQ9,0
+15,Financial worries (future),0,Mental fatigue,0.01,Loneliness scale,0
+16,Percieved risk,0,Age,-0.01,Financial worries (future),0
