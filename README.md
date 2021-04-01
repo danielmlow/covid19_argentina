@@ -34,7 +34,7 @@ conda activate argentina_covid
 Go to directory where you want to put this repo:
 
 ```
-cd path/to/
+cd ./path/to/
 git clone https://github.com/danielmlow/extract_opensmile.git
 cd ./path/to/covid19_argentina/
 ```
