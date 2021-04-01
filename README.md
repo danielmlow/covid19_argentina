@@ -1,4 +1,5 @@
-Data and code for "ADD TITLE" 
+Data and code for Torrente, Yoris et al. "Emotional symptoms, mental fatigue, and financial worries associated with the COVID-19 pandemic after 63 continuous days of a stringent lockdown in Argentina" 
+
 
 ## 1. Data
 
