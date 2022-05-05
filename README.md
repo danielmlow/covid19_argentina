@@ -1,11 +1,11 @@
-Data and code for Torrente, Yoris et al. "Emotional symptoms, mental fatigue, and financial worries associated with the COVID-19 pandemic after 63 continuous days of a stringent lockdown in Argentina" 
+Data and code for Torrente, F., Yoris, A., Low, D., Lopez, P., Bekinschtein, P., Vázquez, G. H., ... & Cetkovich, M. (2022). Psychological symptoms, mental fatigue and behavioural adherence after 72 continuous days of strict lockdown during the COVID-19 pandemic in Argentina. BJPsych open, 8(1).
 
 
 ## 1. Data
 
 Available at `./data/input/`
 
-* `Emotional symptoms COVID19_Arg_May20_v2.csv` Main Dataset
+* `Emotional symptoms COVID19_Arg_May20_v2_text.csv` Main Dataset
 * `covid-stringency-index.csv` For Figure 1 (obtained from https://ourworldindata.org/grapher/covid-stringency-index)
 
 * `population-by-country_worldbank.csv` used to select certain countries to plot in Figure 1
