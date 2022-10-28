@@ -28,8 +28,8 @@ You can install packages with `!pip install <package-name>`
 To run the `.ipynb` on Jupyter Notebook, open terminal, create a virtual environment and install the `requirements.txt`:
 
 ```
-conda create --name argentina_covid --file requirements.txt
-conda activate argentina_covid
+conda create --name covid_argentina --file requirements.txt
+conda activate covid_argentina
 ```
 
 Go to directory where you want to put this repo:
